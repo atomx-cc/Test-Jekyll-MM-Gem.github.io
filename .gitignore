@@ -1,0 +1,30 @@
+# 操作系统生成的文件
+.DS_Store
+
+# 依赖包
+vendor/bundle
+vendor/cache
+vendor/gems
+vendor/ruby
+
+# 临时文件
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Jekyll 生成的文件
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# Ruby 依赖
+Gemfile.lock
+
+# 编辑器相关文件
+.vscode/
+.idea/
+*.code-workspace
+
+# 其他生成文件
