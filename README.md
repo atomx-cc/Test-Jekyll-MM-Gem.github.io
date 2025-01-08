@@ -8,6 +8,8 @@ quote from: https://github.com/mmistakes/minimal-mistakes
 
 start virtual environment: ```source ~/Github/venv/bin/activate```
 
+```bundle exec jekyll clean``
+
 unique port number: ```bundle exec jekyll serve --port 4003 ```
 
 
