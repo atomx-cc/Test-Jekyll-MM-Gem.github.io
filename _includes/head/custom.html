@@ -1,0 +1,23 @@
+<!-- _includes/head/custom.html -->
+
+
+<!-- Polyfill for ES6 Features for old version browsers -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+<!-- MathJax Configuration -->
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+      ignoreHtmlClass: 'tex2jax_ignore',
+      processHtmlClass: 'tex2jax_process'
+    }
+  };
+</script>
+
+<!-- Load MathJax -->
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
