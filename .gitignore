@@ -17,7 +17,6 @@ vendor/ruby
 # Jekyll 生成的文件
 
 # Ruby 依赖
-Gemfile.lock
 
 # 编辑器相关文件
 .vscode/
