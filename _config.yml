@@ -330,6 +330,7 @@ defaults:
       type: "pages"
     values:
       layout: single
+      author_profile: true
 
   # Specific configuration for about.md
   - scope:
@@ -337,3 +338,4 @@ defaults:
       type: "pages"
     values:
       layout: single
+      author_profile: true
