@@ -1,4 +1,7 @@
 # Branch posts
+
+.DS_Store
+
 # Jekyll generated files
 _site/
 .sass-cache/
