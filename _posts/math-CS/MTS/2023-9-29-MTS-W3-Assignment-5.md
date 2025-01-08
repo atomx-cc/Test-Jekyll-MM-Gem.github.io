@@ -12,7 +12,11 @@ tags:
 
 (∀𝑚∈ ℕ)(∃𝑛 ∈ ℕ)(𝑛>𝑚), True 
 
+<<<<<<< HEAD
 1. Express the existence assertions
+=======
+- Express the existence assertions
+>>>>>>> posts
 
 a. ($∃x$ ∈ ℕ)($x^3 = 27$ )
 
@@ -21,7 +25,11 @@ b. ($∃𝑛$ ∈ ℕ)(𝑛>10000)
 c. natural number n is not a prime
 ($∃p$ ∈ ℕ)($∃m$ ∈ ℕ)($p$>1 **∧** $m$>1 **∧ $n=pm$**)
 
+<<<<<<< HEAD
 1. Express the ‘for all’ assertions
+=======
+- Express the ‘for all’ assertions
+>>>>>>> posts
 
 a. ($∀x$ ∉ ℕ)($x^3$ = 28)
  ¬($∃x$ ∈ $ℕ$)($x^3$ = 28)
@@ -32,7 +40,11 @@ a. ($∀x$ ∉ ℕ)($x^3$ = 28)
 b. ($∀n$ ∈ ℕ)($n>0$ )
 c.  ($∀p$ ∈ ℕ)($∀q$ ∈ ℕ)[( ****$n=pq$) ****⇒**$n=pq**n=pq$$p$=1 V **$q=1$** )]
 
+<<<<<<< HEAD
 1. quantifiers for people
+=======
+- quantifiers for people
+>>>>>>> posts
 
 a. ($∀x$)($∃y$) $L(x,y)$, where $L(x,y)$ denotes “$x$ love $y$” 
 
@@ -49,7 +61,11 @@ Come$(John)$  ⇒ $∀x$[Woman$(x)$ ⇒Leave$(x)$]
 f. if a man comes, all the women will leave.
 ($∃x$)[Man$(x)$ **∧** Comes$(x)$] ⇒ ($∀x$)[Woman$(x)$⇒Leave$(x)$]
 
+<<<<<<< HEAD
 1. Express quantifiers
+=======
+- Express quantifiers
+>>>>>>> posts
 
 a. the equation $x^2$ + a = 0 has a real root **for** any real number a.
 ($x^2$ + a = 0) **∧** [($∃x$, $∀a$) ∈ $R$]? 
@@ -70,7 +86,11 @@ R, [Real number](https://en.wikipedia.org/wiki/Real_number),
 
 Q, [Rational number](https://en.wikipedia.org/wiki/Rational_number),  x/y of two integers.
 
+<<<<<<< HEAD
 Z, [*Integer](https://en.wikipedia.org/wiki/Integer_(computer_science)) number(+, -)*
+=======
+Z, [Integer](https://en.wikipedia.org/wiki/Integer_(computer_science)) number(+, -)
+>>>>>>> posts
 
 N, [Nature number](https://en.wikipedia.org/wiki/Natural_number), **non-negative integers** 0, 1, 2, 3, …… N
 
@@ -86,7 +106,11 @@ e. there is no largest rational number
 
 For all real number r, there is an number p, when p is greater than r, and  for all nature number m and n, p is not equal to that m divided by n, so p is irrational number, it means that there is always an irrational number greater than a real number r.
 
+<<<<<<< HEAD
 1. Express in symbolic form
+=======
+- Express in symbolic form
+>>>>>>> posts
 
 a. ($∀x$∈C)[D$(x)$ ⇒ M$(x)$]
 
@@ -98,11 +122,19 @@ d. ($∃x$∈C)[D(x)**∧** ¬M(x)], existential quantifier $∃x$∈, typically
 
 e. ($∃x$∈C)[¬D(x) **∧** M(x)]
 
+<<<<<<< HEAD
 1. You can find a rational number between any two unequal real number.
 
 $∀x$ $∀y${(x<y) ⇒$∃z$ $∃z$ $Q(z)$ **∧**(x<z<y)]}
 
 7. Abraham Lincoln : “You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time.”
+=======
+- You can find a rational number between any two unequal real number.
+
+$∀x$ $∀y${(x<y) ⇒$∃z$ $∃z$ $Q(z)$ **∧**(x<z<y)]}
+
+- Abraham Lincoln : “You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time.”
+>>>>>>> posts
 
 F$(p,t)$ = You may fool people p, at time t.
 
@@ -114,7 +146,11 @@ $∃t$$∀p$F$(p,t)$  ∧ $∃p$$∀t$F$(p,t)$  ∧ ¬$∀t$$∀p$)F$(p,t)$
 
 **Something =** $∃$
 
+<<<<<<< HEAD
 1. A driver is involved in an accident every six seconds. False statement, ambiguous
+=======
+- A driver is involved in an accident every six seconds. False statement, ambiguous
+>>>>>>> posts
 
 A(d, t) , Driver in d, an accident in a, every six seconds in t
 
@@ -126,12 +162,20 @@ $∀t$ $∃d$  A$(d,t)$
 
 # Quiz
 
+<<<<<<< HEAD
 1. 
+=======
+-  
+>>>>>>> posts
 d. they win **exactly** a match when they are partners. $(∃!t)$ W(t)
 f. If Rosario wins the match, she must be partnering with Antonio. 
 the Scope is double tennis, it is not in this case that only Rosario. 
 
+<<<<<<< HEAD
 3. there is no largest prime.
+=======
+- there is no largest prime.
+>>>>>>> posts
 
 $∀x$$∃y$ [Prime(x)∧Prime(y)∧(x<y)], 
 $∀x$ $∀y$ [Prime(x)∧Prime(y)∧(x<y)], 
@@ -140,7 +184,11 @@ $∃y$ $∀x$[Prime(x)∧(y<x)],
 $∀x$ Prime(x) is False. Because there exist lots of Prime number x that is not greater than natural number y. so we can not set 
 $∀x$ Prime(x) 
 
+<<<<<<< HEAD
 1. Evaluate this purported proof, according to the course rubric.
+=======
+- Evaluate this purported proof, according to the course rubric.
+>>>>>>> posts
 
 PS3_Q6.pdf
 4+3+2+0+0+2 = 11 ? 
