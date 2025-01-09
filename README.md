@@ -41,3 +41,7 @@ The single layout is designed for detailed content pages like blog posts and inc
 On the other hand, the default layout is a more basic structure meant to be extended by other layouts and might lack some of these components.
 
 
+## why failed?
+
+```git checkout main```
+```git merge theme```
