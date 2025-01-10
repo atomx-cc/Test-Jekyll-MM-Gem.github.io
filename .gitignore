@@ -20,7 +20,6 @@ _site/
 .jekyll-cache/
 
 # Ruby 依赖
-Gemfile.lock
 
 # 编辑器相关文件
 .vscode/
