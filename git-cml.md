@@ -108,3 +108,4 @@ git merge -X theirs theme
 
 # force copy, another option
 git checkout theme -- multilple_file_name_with_space
+
