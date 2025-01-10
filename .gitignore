@@ -15,9 +15,9 @@ vendor/ruby
 *.bak
 
 # Jekyll 生成的文件
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 
 # Ruby 依赖
 
