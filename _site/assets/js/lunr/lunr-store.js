@@ -96,7 +96,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mathematical Thinking Stanford, W3 Assignment 5",
-        "excerpt":"(∀𝑚∈ ℕ)(∃𝑛 ∈ ℕ)(𝑛&gt;𝑚), True Express the existence assertions a. ($∃x$ ∈ ℕ)($x^3 = 27$ ) b. ($∃𝑛$ ∈ ℕ)(𝑛&gt;10000) c. natural number n is not a prime ($∃p$ ∈ ℕ)($∃m$ ∈ ℕ)($p$&gt;1 ∧ $m$&gt;1 ∧ $n=pm$) Express the ‘for all’ assertions a. ($∀x$ ∉ ℕ)($x^3$ = 28) ¬($∃x$ ∈ $ℕ$)($x^3$ = 28) ($∀x$ ∈ ℕ)($x^3$ ≠ 28) ($∀x$ ∈ ℕ)¬($x^3$ = 28) b. ($∀n$...","categories": ["IT"],
+        "excerpt":"(∀𝑚∈ ℕ)(∃𝑛 ∈ ℕ)(𝑛&gt;𝑚), True «««&lt; HEAD Express the existence assertions Express the existence assertions posts a. ($∃x$ ∈ ℕ)($x^3 = 27$ ) b. ($∃𝑛$ ∈ ℕ)(𝑛&gt;10000) c. natural number n is not a prime ($∃p$ ∈ ℕ)($∃m$ ∈ ℕ)($p$&gt;1 ∧ $m$&gt;1 ∧ $n=pm$) «««&lt; HEAD Express the ‘for all’ assertions Express the ‘for all’ assertions posts a. ($∀x$ ∉ ℕ)($x^3$ =...","categories": ["IT"],
         "tags": ["Internet","Math & CS","AI"],
         "url": "/it/MTS-W3-Assignment-5/",
         "teaser": null
