@@ -102,3 +102,9 @@ git status --ignored
 # Only execute the following commands in the 'main' branch
 jekyll build
 jekyll serve
+
+# force copy from theme branch when in main branch
+git merge -X theirs theme
+
+# force copy, another option
+git checkout theme -- multilple_file_name_with_space
