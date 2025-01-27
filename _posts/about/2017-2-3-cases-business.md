@@ -1,5 +1,5 @@
 ---
-title: "Business experiences"
+title: "商业案例"
 date: 2017-2-3
 categories:
   - About
@@ -7,52 +7,196 @@ tags:
   - Resume
 ---
 
-
-## ** Advisor**
-
-Freelance 
-
-China, Ukraine, Germany
-
-Jan 2018 – Present
-
-IT, web app R\&D, data analysis, E-commerce and internet works, etc. mainly for the agriculture & food industry, and a dozen of environmental NGOs.
+我主要涉及的互联网和电商运营、生鲜农产品供应链、农业、餐饮等商业案例。
 
 
-## E-commerce Expert
+## [酷壳众创博客](https://coolshell.in/)
 
-Hangzhou, Zhejiang, China
+时间：2022 -
 
-Jan 2016 – Aug 2017
+地点：乌克兰、德国
 
-E-commerce and pig farm projects in [Weiyang](https://weiyang.cn/)Agri-Dept. of [NetEase](https://netease.com/)
+程序员博客和社群运营
 
-Product innovation, platform rules, and standards research.
+**项目概述：**
+与前同事[陈皓 - 左耳朵耗子](https://coolshell.cn/)合作，筹备欧洲[MegaEase Cloud](http://megaease.com)云计算公司，探索欧洲地区的营销代理业务，递交商业计划到本地投资孵化器并通过审查，办理商务申根签证，由于合伙人和创始人陈皓突然意外去世，计划搁置。。。
 
-General management operations and maintenance, animal welfare standards, and technology introduction from Europe & the US.
-
-
-### E-commerce Operator
-
-Hangzhou, Zhejiang, China
-
-May 2012 – Jul 2013
-
-E-commerce product R&D.
-
-New Agriculture Development Business Dept. of [Taobao in Alibaba](https://www.taobao.com/markets/cun/gyct)
-
-Organic food market research, user experience design, social media marketing, Agri-food standard certification, etc.
+继续运营[酷壳博客](https://coolshell.in/)社群，招募合作伙伴，致力于转型为远程工作的创业者服务。
 
 
-### IT Specialist
+## 伊尔克利夫IRKLIEV生态园有限责任公司
 
-Beijing tourist information centre
+时间：2020 -
 
-Nov 2004 – Oct 2009
+地点：乌克兰. 基辅、切尔卡西、波塔瓦
 
-Beijing, China
+农场和农产品经营
 
-Business Web developing and website administration, engineering drawing production, software debugging, user's manuals translation etc.
+**项目概述：**
 
-Mainly serving large-scale business conferences, forums and exhibitions in the chemical analyzer, mechanical and electrical engineering industries.
+担任联合创始人和IT业务总监，在乌克兰为投资者经营生鲜农产品/食品业务，并改造前苏联遗留的大型农/林/牧/渔场，以及附属的住宅、商业和工业建筑的经营。
+
+受战争影响，该项目暂停。。。
+
+
+## [南德集团](https://qizhong.land/)
+
+时间：2020.7-12
+
+地点：北京
+
+媒体和web开发
+
+**项目概述：**
+为牟其中第三次创业提供项目需求分析和IT技术支持。
+
+[牟其中](https://de.zxc.wiki/wiki/Mou_Qizhong)是中国改革开放后最知名的第一代民营企业家，第一个亿万富翁，被媒体广泛称为[中国私企教父](https://www.latimes.com/archives/la-xpm-1996-03-28-fi-52176-story.html)。
+
+制作[南德档案馆](https://doc.qizhong.land/)，按时间序列和分类标签编排可公开发布的历史文件，包括牟其中演讲文集、书信、文章、活动、会议文件和影像资料、原企业报《南德视界》的电子版制作、纪录片策划等；
+
+涉及西伯利亚农林牧副渔业和跨境贸易的相关产业的研究与规划会议，文件材料制作；
+[https://github.com/chzionland](https://github.com/chzionland)
+
+[https://github.com/chzionland/doc/blob/cn/SUMMARY.md](https://github.com/chzionland/doc/blob/cn/SUMMARY.md)
+
+
+注释：由于涉及商业、法律等诸多不可抗力因素，项目网页前端已关闭。
+
+
+## 杭州市颐心斋餐饮管理有限公司（素心自助餐厅）
+
+时间：2019.1-6
+
+地点：杭州
+
+素食餐饮店的线上和线下（O2O）运营、IT技术支持
+
+**项目概述：**
+
+托管华东地区最大的传统素食自助餐厅和纯素甜品烘焙店，辅助创始团队的管理运营优化，餐饮服务的业态升级和产品创新，参加植物基蛋白行业展会论坛，促进与Beyond meat、Just egg、Otly、Omnipork 等国际头部公司在中国市场的业务合作推广。
+
+## 永辉云创科技有限公司
+
+时间：2018.7-8
+
+地点：上海
+
+生鲜社区店的线上和线下（O2O）平台产品运营。
+
+**项目概述：**
+
+为应对年增长数百个[”永辉生活“便利店](http://www.yonghuivip.com/)的业务扩张，探索生鲜电商和宅配模式，调研城市社区周边业态，前置仓库、干线和支线物流及最后3公里配送，便利店O2O线上线下活动和用户运营，平台产品创新，数据分析，项目综合运营管理优化等。
+
+
+## [浙江味央科技有限公司](https://weiyang.cn/)
+
+时间：2016.1-2017.8
+
+地点：杭州、湖州
+
+农业和电商项目综合运营管理
+
+**项目概述：**
+[网易农业事业部](https://netease.com/) 的网红猪场，探索高品质养殖和生鲜电商平台模式，主要包括。
+
+**平台规则：**
+农产品电商产业链的调研，产品创新、平台规则制定，包括招商规则、用户服务条款，购销合同等，探索商业市场拓展等，涉及财务、法务、市场、生产、IT等多部门协作；
+
+**生产标准：**
+研究国家农业政策法规，涉及《环境保护法》、《食品安全法》、污染排放和设施建设的上百项相关法规、生产标准等，提供法务部门的合规审查分析，及相关技术支持咨询等；并协助农场生产管理运维，自动化饲喂设备软硬件故障排除，优化饲喂曲线效率，汉化设备操作指南等；
+
+**公关合作：**
+沟通协调行业协会、科研机构、专家智库，引进外部合作资源，编译欧盟“动物福利”标准及各种“养殖管理”技术的公开课和资料，为市场科普和内训赋能；
+
+
+## 电商咨询和培训师
+
+时间：2013-2015
+
+地点：新疆、青海、宁夏、四川、安徽、浙江、江苏等
+
+农产品电商咨询和培训
+
+**项目概述：**
+
+任顾问和讲师，服务的主要公司和机构包括：
+
+- [浙江省老字号协会]()；
+- [天下网商研究院]()，；
+- [淘员外]()，；
+- [阿里商学院]()，；
+- [阿里研究院]()，；
+- [农村淘宝](https://www.taobao.com/markets/cun/gyct)；
+- [浙江省对口支援办公室（援新疆、青海等西部地区）]()，；
+
+承接政府西部大开发和电商扶贫工程，开发农村淘宝系列农产品电商课程，在10多个省市地区培训政府公务员、大学生村官和企业电商团队数千人，服务数十家老字号协会和数百家中华老字号的双11/12等大型营销活动。
+
+聚焦休闲农业和区域特色农林牧副渔业，辅助本地化的经营管理团队建设，产品经理、运营主管、客服等岗位人才招募，以及提供市场调研、选品、淘宝外包服务商（TP淘拍档）、营销推广、产业园运营等解决方案。
+
+
+## [凯盛融英信息科技有限公司](https://capvision.com/)
+
+时间：2014
+
+地点：北京、上海、广州、深圳、杭州
+
+农业产业投资调研和咨询
+
+**项目概述：**
+
+通过凯盛融英- 全行业专家智库平台，为超过30家投资基金公司的分析师和研究员，提供种植、养殖、土地流转、农资、农产品电商等涉及互联网+农业项目的咨询服务；
+
+
+## [浙江兴合电子商务有限公司](http://www.zjnonghe.com/xinghe/zyyw/xxhcy/index.html)
+
+时间：2014.7-12
+
+地点：安徽、杭州
+
+农业电商管理咨询
+
+**项目概述：**
+
+为总经理和管理层提供咨询顾问，以及业务拓展、调研、策划、方案修订、运营管理等技术支持，主要子项目包括：
+
+- 聚土地一期，谷物语农场的农产品和土地众筹，[聚划算：老乡喊你来分地，定制私家农场](http://act.ju.taobao.com/go/act/juhuasuan/jtd.php)；
+- 特色中国浙江馆，及外包的其他省市的地方特色馆等；
+- 电子商务产业园、徽州古镇休闲游产品、[淘宝众筹：万人众筹，重建中国美丽古村落](https://izhongchou.taobao.com/dreamdetail.htm?id=1130)、黄山周边区域的农村电商项目等；
+
+
+## [淘宝新农业发展部](https://ny.taobao.com/)
+
+时间：2012.5-2013.7
+
+地点：杭州
+
+生态农业电商平台运营
+
+**项目概述：**
+ [阿里巴巴](https://alibaba.com) - 运营淘宝生态农业平台，支持生态小农电商发展，主要工作包括。
+
+**原型设计：**
+通过CNCA国家农业认证信息系统，和阿里巴巴的农产品食品相关平台，调研三品一标（有机，绿色，无公害，地标）农产品市场数据；输出平台需求分析文档PRD和原型图，协助技术研发的功能设计，流程测试，收集用户反馈数据，协助UX设计师改进用户体验，制定客服FAQ清单，辅导产品上线；
+
+**社区营销：**
+参考CSA社区支持农业的farm to table农场到餐桌模式，基于数万淘宝农产品集市店，开发淘宝生态农场原产地，MVP测试0-1阶段首年入驻农场数千家。从微博等社交媒体导流至淘宝农业集市店。策划行业协会和KOL农场会员线上线下活动，如农产品预售/众筹/团购/农夫市集等，促进商家与客户的互动和产品销售；
+
+**运营规则：**
+制定招商规则，用户服务条款，品质认证，选品标准，产地评估体系。基于用户和数据增长的业绩目标，通过时间表和进度管理工具，解决实际应用场景的供应链服务保障问题，涉及业务运营、技术研发、市场等跨部门协作；
+
+
+## 北京旅游咨询服务中心
+
+时间：2004.11-2009.10
+
+地点：北京
+
+IT运维和翻译
+
+**项目概述：**
+
+从事涉外商贸业务外包，主要业务范围包括：
+
+**翻译：** 提供国际商贸会展业务的英汉翻译，入境旅客的商旅服务；
+
+**IT：** 主要服务于环境和化学分析工程类客户，提供中小型企业网站运维，办公自动化设备和网络管理，工程图绘制和程控软件汉化，设备测试和技术服务咨询等。

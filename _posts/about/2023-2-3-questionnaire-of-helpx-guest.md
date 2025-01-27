@@ -1,5 +1,5 @@
 ---
-title: "Questionnaire of Helpx Guest"
+title: "Helpx客人问卷"
 date: 2023-2-3
 categories:
   - About
@@ -8,69 +8,71 @@ tags:
 ---
 
 
-This questionnaire is designed by [Oksana](https://loveyourlife.in.ua/), a psychologist and Helpx host. [original questionnaire link.](https://docs.google.com/forms/d/e/1FAIpQLSevrhrlCHtMZd0W2-7mY681cPjxtRe7fE1NYR8WuhadE5lzgQ/viewform)
+欢迎复制该问卷模板，适用于通过互联网招募义工项目。
 
-**Getting to know you More**
+这份问卷由心理学家兼Helpx房东[Macdonald]设计。
 
-Those questions are rather personal, so please share with us things that you are comfortable to share with us. No obligation, no pressure, hope answering them also gives you an update on the perspective on who you are at the moment.
+**更多地了解你**
+
+这些问题比较私密，请分享你愿意与我们分享的内容。没有义务，没有压力，希望回答这些问题也能让你对目前自己的看法有所更新。
 
 
-**Name**
+**姓名**
 
-Atom. X
+Atom
 
-**Age**\*
+**年龄**
 
 30
 
-**Occupation**
+**职业**
 
-IT specialist
+IT
 
-**What motivates you most? Generally, in your life**
+**什么最能激励你？一般来说，在你的生活中**
 
-People who seek for the truth of history and politics, fight for freedom and independence
+曾经很喜欢看历史剧，为自由和独立而奋斗的人们
 
-**_What really frustates you?_\***
+**_什么事情最让你沮丧？_**
 
-When I find that all the familiar people around me lose their courage and confidence
+当我发现我周围所有熟悉的人都失去了勇气和信心
 
-**What are your interests? What is your pesonality like?**
+**你的兴趣是什么？你的个性如何？**
 
-I spend most of my time online and exercise is a way to take a break. Frankly, I don't consider myself smart or good, but courageous, hard-working, studious, compassionate empathetic and cynical.
+我大部分时间都在网上度过，锻炼是一种放松的方式。坦白说，我不认为自己聪明或优秀，但我勇敢、努力、好学、富有同情心、善解人意且愤世嫉俗。
 
-**What are your skills?**
+**你的技能是什么？**
 
-internet, applications, any house work
+IT、农民、洗衣做饭和打扫卫生之类的家务
 
-**What are your dreams?**
+**你的梦想是什么？**
 
-Creating many NGO online and working remotely
+创建公益组织并远程工作
 
-**What is your normal social environment?**
+**你通常的社交环境是什么？**
 
-I have never been living in a normal social environment, and if I have an ideal nation and place, it has been on the virtual Internet.
+我从未生活在现实世界的正常社交环境中，如果我有一个理想的地方，那就在虚拟互联网上。
 
-**What are your goals?**
+**你的目标是什么？**
 
-To get another passport and change my nationality. After I learned about the real Chinese history and family background, I felt it was a shame to be Chinese. So, please do not call me Chinese.
+当农场主
 
-**_What helps you to achieve your goals?\***
+**_什么能帮助你实现你的目标？_**
 
-IT, to unite a group of people who share the same outlook on life, worldview and values as I do.
+IT技术，一群与我拥有相同人生观、世界观和价值观的人。
 
-**What abstructs you from achieving your goals?**
+**什么阻碍你实现你的目标？**
 
-There are many factors, such as government corruption, fraud by businessmen, etc.
+有很多因素，例如官僚主义、商业欺诈、腐败等。
 
-**Reasons for you to engage with us**
+**你参与我们的原因**
 
-Find someone special who ideally has the ability to think independently, work remotely, has integrity, is kind, and is willing to contribute to the progress of society.
+寻找一些具备独立思考、远程工作、正直善良、并愿意为社会进步做出贡献的朋友。
 
-**Reasons for you not to engage with us**
+**你不参与我们的原因**
 
-If you are as stupid, evil and selfish as those in mainstream society
+如果你像主流社会中的那些人一样愚蠢、邪恶和自私。
 
-**tell us anything you want**
+**你想告诉我们任何事情吗？**
 
-I am very interested in setting up a space to work and live in that is no worse than a big city, so that I can attract more partners to come over, and I am sure there are many people who are interested in remote areas.
+我非常有兴趣建立一个不比大城市差的工作和生活空间，这样我就能吸引更多合作伙伴过来，我相信很多人对不为人知的小镇感兴趣。

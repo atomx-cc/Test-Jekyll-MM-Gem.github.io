@@ -1,5 +1,5 @@
 ---
-title: "Resume: Social Works"
+title: "社会活动"
 date: 2017-2-4
 categories:
   - About
@@ -7,169 +7,181 @@ tags:
   - Resume
 ---
 
+我主要涉及的环境保护、三农（农业、农村、农民）发展、纪录片和公开课科普等公益项目。
 
-## Web App Development
 
-2020.7-12 
+## 中国肉食数据图谱/中国肉食地图 China Meat Atlas
 
-Land Economic Group
+时间：2019
 
-Project demand analysis and technical support for the media database of Mou Qizhong, he is the most well-known first-generation entrepreneur after China's reform and opening up and is known as the godfather of Chinese private enterprises.
+地点：北京、杭州
 
-[https://de.zxc.wiki/wiki/Mou\_Qizhong](https://de.zxc.wiki/wiki/Mou_Qizhong)
+为环保基金项目的数据分析和可视化
 
-[https://www.latimes.com/archives/la-xpm-1996-03-28-fi-52176-story.html](https://www.latimes.com/archives/la-xpm-1996-03-28-fi-52176-story.html)
+**项目概述：**
 
-Main tasks include: Audio and video editing of historical video materials, the electronic production of the former corporate newspaper "Land Vision", documentary film planning, etc. 
+主办方为中国生物多样性保护与绿色发展基金会（简称中国绿发会），以及下属的分支公益组织 - 良食基金，该机构是中国首个政府背景的大型环保基金，合作的美国智库为[Brighter Green’s consultants](https://brightergreen.org/)。
 
-Designing and developing websites that comply with PWA (progressive web app) standards and search optimization. Collecting and organizing the records of events and meetings, the historical materials such as the collection of speeches, letters and articles by Mou, and the complete version of the documents publicly released in the past. 
 
-Research and planning meetings, documents production involving relevant industries in agriculture, forestry, animal husbandry and fisheries and cross-border trade of Siberia in Russia.
+**项目文件**
+项目采集数据源自联合国粮农组织FAO、中国国家统计局、欧盟和美国农业部等，我们从事原始数据挖掘、清洗、分析和可视化并撰写报告，研究中国对比世界范围的畜牧业和水产品的生产及肉食消费状况。
 
-[https://github.com/chzionland](https://github.com/chzionland)
+预计未来在有资源持续投入的情况下，版本升级为动态的数据大屏幕Dash board，建立关系型数据库，为环境、教育、科研、政府、智库、动物和植物基蛋白生产商等机构，提供开源的数据验证和研究服务；
 
-[https://github.com/chzionland/doc/blob/cn/SUMMARY.md](https://github.com/chzionland/doc/blob/cn/SUMMARY.md)
+a. [Github Pages 中国肉食数据图谱](https://meatatlas.github.io/)
+b. [Quip 摘要报告](https://quip.com/RXqaASdn65Nk)
+c. [Google Docs 演示稿](https://drive.google.com/open?id=1N4ng2wkU4QaR818fv9s8yAflpINPypbhj1L5pHEH7t4)
 
-Tips: Due to being Involved in commercial fraud, politics, etc. force majeure factors, the front-end webpage of the project is closed.
 
-### Data Analysis
+## [WWOOF 世界有机农场组织](http://www.wwoof.net/)
 
-2019.03 - 2020.02 
+时间：2015.6-7
 
-GDF(Green Development Foundation)/[China Biodiversity Conservation and Green Development Foundation](https://en.wikipedia.org/wiki/China_Biodiversity_Conservation_and_Green_Development_Foundation)
+地点：丹麦. 奥登塞、法尔斯特
 
-China Meat Atlas [https://meatatlas.github.io/](https://meatatlas.github.io/)
+环境教育项目游学
 
-I lead a small team of data scientist and analyst for BDF which is one of the earliest and largest environmental NGOs in China, to research the status of China vs. the world in livestock & aquaculture production and meat consumption.
+**项目概述：**
+加入丹麦WWOOF组织，参与家庭农场和社区学校的```环境教育、社区儿童陪护、园艺、农田的日常运营管理```；
 
-We do data retrieving, cleaning, and mining, and drew all the charts. Provide Data visualization and analysis for plant-based protein manufacturers, we also cooperate with think tanks [Brighter Green’s consultants](https://brightergreen.org/) in the US.
+陪同丹麦有机食品出口商和[CACN 中国认证认可监督管理委员会](http://www.cnca.gov.cn/)的官员，参观当地的有机农场。
 
-Tips: figures and documents are only visible by VPN for users in China mainland.
 
-### 2015.7 WWOOF Volunteer
+## [世界农场动物福利协会(CIWF)](https://www.ciwf.com/)
 
-Denmark. Odense, Falster
+时间：2016 - 2017
 
-[World Wide Opportunities on Organic Farms (WWOOF)](https://en.wikipedia.org/wiki/WWOOF)
+地点：北京、杭州
 
-Joined in Denmark WWOOF organization membership, home-stayed the family farm, assisting the daily work in the projects of environment and art education, Gardening, maintaining the kitchen and school.
+环境纪录片和公开课的字幕组编译和培训
 
-Experienced the common people's lives and their high-quality organic agricultural products and food.
+**项目概述：**
 
-Visited and Investigated Odense organic farm with CACN ( Certification and Accreditation Administration of China) and organic certification institute.
+在[网易公开课]()等平台编译并发布中国大陆最早的动物福利公开课，及翻译动物保护组织工作坊培训用的系列文件资料。
 
-[https://www.tranemosegaard.info/](https://www.tranemosegaard.info/)
+为中国动物福利协会招募和培训志愿者超过20位，累计完成超过120节短视频编译和发布，主题为：环境、生物、水、农业、食品、健康、文化遗产、可持续发展、人类未来 ……
 
-### 2016 - 2017 Documentary Film
+注释：由于触碰没有明文规则的平台监管，部分影片过不了审查，且国产视频托管平台服务质量普遍较差，涉嫌盗版侵权问题，最终遗憾放弃，部分幸存视频链接如下：
+[微信：动物福利](https://mp.weixin.qq.com/s/M9NW4XSZFECVBs0cKciw9A)
+[B站：动物福利](https://space.bilibili.com/10633017)
 
-Compiling and translating the earliest public courses on animal welfare in China mainland, and translating a series of documents for workshop training, recruiting and training a team of volunteers for the China Animal Welfare Association, and operating a pig farming program during the same period.
+**合作机构：**
+[英国爱丁堡大学- 苏格兰农学院 SRUC- Scotland’s Rural College](https://www.sruc.ac.uk/)
+[]
+[中国动物福利协会]()
 
-Been passionate at BBC series of classic environmental documentaries, and has gathered volunteers to organize the compilation and training of subtitling groups for environmental documentaries and videos, and has completed more than 120 short videos in total. Compilation Topics: Environment | Biology | Water | Agriculture | Food | Health | Cultural Heritage | Sustainable Development | Future of Humanity ...... Due to the internet regulation without explicit rules, some of the films can not pass the censorship, and video hosting platform service quality is generally poor quality in China, also with suspected of piracy infringement problems, and we finally regret to give up, part of the left videos link as(Chinese version) .
 
-B station: [https://space.bilibili.com/10633017](https://space.bilibili.com/10633017) WeChat: [https://mp.weixin.qq.com/s/M9NW4XSZFECVBs0cKciw9A](https://mp.weixin.qq.com/s/M9NW4XSZFECVBs0cKciw9A)
+## [北京小毛驴市民农园](https://chinadevelopmentbrief.org/ngos/little-donkey-farm/)
 
-**Collaborators.** 
+时间：2010.3 - 2012.5
 
-CIWF- Compassion in World Farming [https://www.ciwf.com/](https://www.ciwf.com/) University of Edinburgh, UK- Scottish Agricultural College
+项目地点：北京. 海淀区
 
-SRUC- Scotland's Rural College [https://www.sruc.ac.uk/](https://www.sruc.ac.uk/)
+三农公益组织的IT 技术支持
 
+**项目概述：**
 
+从事农夫市集、农业合作社组织、乡村建设志愿者、生态农业推广、中国[社区支持农业 CSA(community support agriculture)](https://csa.org)等活动会议的网络建设。
 
-## 2010-2012, NGOs of Agriculture, Rural & Farmer issues.
+为农场和相关组织提供网站和论坛开发、微博网络社群管理、客户关系管理 CRM 、小型呼叫中心、农场会员订购和配送排班表的原型设计等；
 
-I participated in over decades of volunteer works for non-profit organizations.
+销售”生鲜宅配套餐“，”农场租地套餐“，家庭会员超过3000户，年均增长率超过200%，该项目开创中国最早的生鲜电商和私家定制的网红农场成功案例；
 
-### Events Operation and interpreter
+**合作机构：**
+[北京有机农夫市集](https://www.facebook.com/farmersmarketbj/);
+[中国人民大学农业与农村发展学院](http://sarden.ruc.edu.cn/About/AboutUs/index.htm);
 
-2011.12, Shanghai, Jiangsu, Zhejiang, China. 
 
-The Visit and Investigation to Eastern China for Ecological Civilization and Rural Reconstruction. International Conference on Sustainability & Rural Reconstruction.
+## [南方国家可持续发展论坛(SSFS)](https://commons.ln.edu.hk/southsouthforum/2011/)
 
-For Organizations:
-- [South-South Forum on Sustainability(SSFS)](https://commons.ln.edu.hk/southsouthforum/2011/);
-- [United Nations Development Programme(UNDP)](http://en.wikipedia.org/wiki/United_Nations_Development_Programme);
+时间：2011.12
 
-Project documents: [First South-South Forum on Sustainability (Dec, 2011)](https://our-global-u.org/oguorg/en/the-first-south-south-forum-on-sustainability/)
+项目地点：香港、浙江、上海、江苏
 
 
-### [Partner for Community Development (PCD)](https://www.pcd.org.hk/);
+国际会议考察团的会务和活动服务
 
-2011.11, Hongkong
+**项目概述：**
 
-LingNan city Agriculture visiting and workshop in Hongkong.
+调研中国东部（江浙沪）的会议团队来自12个国家的学者和专家，主要议题为生态文明、三农问题、乡村建设、可持续发展等；
 
-The organizations that we visited such as: 
-- traditional organic farms in Hong Kong, 
-- the Permaculture School of Sustainable Cultivation, 
-- urban communities and balcony gardening, 
-- urban elementary school focusing on farming culture, nature and food education, 
-- rural communities and urban-rural interactive bazaars, 
-- fresh food convenience stores and organic restaurants.
-- the Hong Kong Rural History Museum, 
-- social enterprises for special groups, 
-- Charitable foundations,[Kadoorie Farm and Botanic Garden (KFBG)](https://www.kfbg.org/);
+项目材料：
+英文[2011.12 首届全球南方国家可持续发展论坛](https://our-global-u.org/oguorg/en/the-first-south-south-forum-on-sustainability/)
 
-Through research and Urban Farming Workshop discussions, we got an insight into the highly developed modern cities represented by Hong Kong.
 
-We found the relationship among many key factors, such as the distinctive Lingnan farming culture, the specific geographical pattern today, the multiple roles and important supporting functions of agriculture in the city.
+**主办单位：**
+[香港岭南大学](https://commons.ln.edu.hk/);
+[中国人民大学农业与农村发展学院](http://sarden.ruc.edu.cn/About/AboutUs/index.htm);
+[联合国开发计划署(UNDP)](http://en.wikipedia.org/wiki/United_Nations_Development_Programme);
 
-The investigation report(Chinese version): **"Urban Farming" in Hong Kong,** waiting for updating.
 
+## [香港社区伙伴(PCD)](https://www.pcd.org.hk/)
 
-### Business Solution for Rural Area
+时间：2011.11
 
-2011.3, Chongqing, China
+地点：香港
 
-We assist external partners such as NGOs and foundations to collaborate with local governments, business owners and communities.
+岭南城市农耕调研工作坊
 
-This program was jointly organized with AIA Global Youth Leadership Development Program to explore and research local business solutions for sustainable rural development in Wuxi County.
+**项目概述：**
 
-For the organizations:
-- [Global Village of Beijing (GVB)](http://www.chinadevelopmentbrief.org.cn/org660/); 
-- [Global Institute For Tomorrow (GIFT)](https://global-inst.com/);
-- [American International Assurance (AIA)](https://en.wikipedia.org/wiki/AIA_Group);
+我们参观和访问的机构包括：
+- 香港本地传统的有机农场
+- 新兴的（朴门）永续栽培学校
+- 城市社区和阳台种植，
+- 注重自然和食物教育的小学，
+- 农村社区和农民市集，
+- 生鲜便利店和有机餐厅，
+- 香港乡村历史博物馆，
+- 残障人群社会福利事业，（社会企业）
+- 公益基金会，[嘉道理农场暨植物园(KFBG)](https://www.kfbg.org/)
 
-Project documents.
-[A Business Solution for Sustainable Community Development in Wuxi, April 2011](https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi);
+通过考察和工作坊讨论的方式，调研以香港为代表的高度发达的现代化城市案例，可窥见有特色的岭南农耕文化与今天特定的地域格局的关系，农业在城乡互动中具有不可缺少的多重角色，及发挥着重要的支撑功能。
 
-[Creating business solutions for sustainable community development](https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html)
+文件：香港城市農耕考察报告
 
-### IT support for NGOs
 
-2010.3–2012.5, China. Beijing
 
-I Engaged in farmers' market and cooperative farm organization development, rural construction volunteer, community support agriculture (CSA) network. 
+## [北京地球村环境教育中心](http://www.chinadevelopmentbrief.org.cn/org660/)
 
-My daily jobs are about, IT support for farms, Social media and community management, Web prototype developing, CRM and product prototype design. 
+2011.2-4
 
-Farm membership ordering and delivery systems, and customers service for citizens and expatriates of Beijing. 
+地点：重庆. 巫溪
 
-Sales of "Fresh Food Delivery Package" and "Farm Land Rental Package", with more than 3,000 family members and an average annual growth rate of more than 200%, this is the first CSA case of fresh vegetable e-commerce in China.
+公益基金会的乡村社区商业开发和运营
 
-For organizations:
-- [Beijing Little Donkey Farm](https://chinadevelopmentbrief.org/ngos/little-donkey-farm/);
-- [Beijing Organic Farmers' Market](https://www.facebook.com/farmersmarketbj/);
-- [School of Agriculture and Rural Development, People University of China](http://sarden.ruc.edu.cn/About/AboutUs/index.htm);
+**项目概述：**
 
+辅助其他公益组织和基金会等合作机构，与重庆巫溪县政府、当地企业和社区之间的沟通协作，探索乡村发展商业方案，及地球村乐和家园项目的日常运营管理等。
 
-## Environmental Summit Operation
+**合作机构：**
 
-2006.10, China. Beijing
+[全球未来研究所(GIFT)](https://global-inst.com/);
+[美国国际保险集团(AIA)](https://aia.com/);
 
-As a member of the UNEP/GPA/IGR-2 conference team, I provided travel, conference organization and document translation services for delegates from over 100 countries worldwide.
 
-For the organizations and events:
+**项目文件：**
+- [网络档案：为可持续社区发展创造商业方案](https://web.archive.org/web/20140104100908/http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html);
+- [2011.4 巫溪可持续乡村发展的商业方案](https://www.slideshare.net/tomorrowmatters/a-business-solution-for-sustainable-community-development-in-wuxi);
+- [GIFT：为可持续社区发展创造商业方案](http://www.global-inst.com/past-programme/china/creating-business-solutions-for-sustainable-community-development.html);
 
-- (UNEP)[United Nations Environment Program ](http://www.unep.org/)
 
-- IGR2:[Second Intergovernmental Review Meeting on the Implementation of the GPA](https://www.unep.org/resources/report/igr2-organisational-issues);
+## [联合国环境规划署(UNEP)](https://www.unep.org/)
 
-- GPA:[The Global Programme of Action for the Protection of the Marine Environment from Land-based Activities](https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/governing-global-programme);
+时间：2006.10
 
-- [Ministry of Ecology and Environment of PRC](https://en.wikipedia.org/wiki/Ministry_of_Ecology_and_Environment)
+地点：北京. 亚运村
 
-Project documents.
-- [Second Intergovernmental Review Meeting on the Implementation of the GPA](https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/governing-global-programme-4)
+大型国际会议服务
 
-- Chinese version:[Ministry of Ecology and Environment of the People's Republic of China](http://www.mee.gov.cn/home/ztbd/rdzl/hyhj/zl/200610/P020061009589836389579.pdf)
+**项目概述：**
+
+联合国环境会议UNEP/GPA/IGR-2 会务组和活动助理，为全球 100 余国家参会代表提供旅行、会务组织、文件翻译、IT支持等服务。
+
+IGR-2，Second Intergovernmental Review Meeting on the Implementation of the GPA 执行情况政府间审查第二届会议；
+
+GPA，The Global Program of Action for the Protection of the Marine Environment from Land-based Activities 保护海洋环境免受陆上活动污染全球行动纲领；
+
+**项目文件：**
+英文 [UNEP:《保护海洋环境免受陆上活动污染全球行动纲领》](https://www.unep.org/explore-topics/oceans-seas/what-we-do/addressing-land-based-pollution/governing-global-programme-4)
+中文 [中国环境部:《保护海洋环境免受陆上活动污染全球行动纲领》](http://www.mee.gov.cn/home/ztbd/rdzl/hyhj/zl/200610/P020061009589836389579.pdf)

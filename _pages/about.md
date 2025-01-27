@@ -1,44 +1,36 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于Atom"
 date: 2017-9-16
-description: IT farmer, remote worker, Aaronic priest
+description: 农民、IT工、社工、布道师
 categories:
   - About
 tags:
   - Resume
 ---
 
-IT farmer, remote worker, Aaronic priest
+农民、IT工、社工、布道师
 
-**Current**
+**目前**
 
-As of March 2024, I live in a small town of Central Europe, studying new emerging technologies of computers and the internet, doing part time remote jobs of programming. In the meantime, I have the honor to assist missionaries' preaching services in the local church.
+截至2024年3月，我住在中欧的一个平静的小镇，正在学习计算机和互联网涌现的新技术。
 
-I am also a part-time farmer, involves herding (horses, cows, sheep, shepherd dogs, and bees), growing organic fruits and vegetables, maintaining garden landscapes, fixing houses, taking care of children, etc., A very interesting and healthy way of life that perfectly balances physical and mental work.
-
-
-**Past**
-
-Before the Russian-Ukrainian War in February 2022, I operated farm business for investors in Central Ukraine. After more than a year of unsettled lives, I went to Europe seeking for survival opportunities.
-
-Before going overseas in 2020, I had been engaged in agricultural product e-commerce operation for 10 years. I worked for several leading Internet companies in China, and am familiar with the fresh food supply chain industry. Due to my work, I have participated in countless social activities on environmental issues and have served many environmental protection and agricultural non-profit organizations.
+远程工作的同时，我还兼职农民，包括放牧（马、牛、羊、牧羊犬、蜜蜂）、种植有机果蔬、维护园艺景观、修房子、带孩子等，非常有趣和健康的生活方式，即体力/脑力劳动均衡各半。
 
 
-**Future**
+**过去**
 
-In recent years, with the pandemics and war, I have often felt a strong sense of crisis. In order to cope with the unpredictable, destructive, and inevitable disasters and social chaos in the future, it is necessary to be prepared for the worst situation:
+在2022年2月俄乌战前，我在乌克兰中部为投资者经营农场，并在基辅办公，经过了1年多的流离失所和动荡不安，我随难民队伍到达欧洲，经过很多美丽的小城镇，遇到了很多不同种族和背景的人。
 
-> Think of danger in times of safety;
-> Disaster Recovery;
-> Load balancing;
-> Multi-Site High Availability(Active-Active across multiple locations), several live places in urban and rural areas;
-
-Looking for business partners: Create shared offices and living spaces with garden and farm for remote working partners, develop software and online businesses that are beneficial to society.
+在2020年出海前，我从事农产品电商运营10年，在中国多家业界头部互联网公司的农业部门工作过，熟悉有机农业和生鲜食品供应链行业。我还参加过无数生态环境主题的社会活动，并为多家环保和农业类的非营利组织和智库服务。
 
 
-[Photo: Sailing on the Rhine in April 2022]
+**未来**
 
-[Email ](mailto:hi@atomx.cc)｜
-[Telegram](https://t.me/atomxxx) ｜
-[Podcast](https://podcasters.spotify.com/pod/show/coolshell)
+近年来随着瘟疫和战争，我时常颇有危机感，大环境可能会迫使很多人改变生活方式，我们不得不远离大城市和现代文明，为了应对未来不可预料的/毁灭性的/不可抗力的灾难和社会混乱，有必要立即开始为最坏的情况做准备:
+> 居安思危、灾难备份、负载均衡、高可用、异地多活、自给自足。
+
+寻找创业伙伴：探索地球各大洲的不同文化和自然环境下，创建带有园艺农庄的共享办公和生活空间，供远程工作的伙伴们使用，协同开发有益社会的软件和线上业务，贡献开源软件社区。
+
+
+[照片：航行在莱茵河 2022年4月]
